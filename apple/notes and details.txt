@@ -1,0 +1,2 @@
+this website is not responsive.
+this website has headers , 2 sections of main and a footer.

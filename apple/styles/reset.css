@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "iphone";
+    src: url("../fonts/open-sans/open-sans-v17-latin-regular.eot") format("embedded-opentype"),
+    url("../fonts/open-sans/open-sans-v17-latin-regular.ttf") format("truetype"),
+    url("../fonts/open-sans/open-sans-v17-latin-regular.woff") format("woff"),
+    url("../fonts/open-sans/open-sans-v17-latin-regular.woff2") format("woff");
+}
+
+
+
+body {
+    width: inherit;
+    height: inherit;
+    min-height: inherit;
+    margin: 0;
+    padding: 0;
+    font-family: "iphone";
+
+}
